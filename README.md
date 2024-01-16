@@ -1,3 +1,22 @@
+# Unbabel Challenge
+
+This is a project to solve the challenge proposed by Unbabel. The goal of the challenge is to build a command-line application that analyzes a stream of events and generates an aggregated output. In this case, we are interested in calculating, for every minute, a moving average of the translation delivery time for the last X minutes.
+
+## Requirements
+
+Make sure you have Python 3 installed on your system.
+
+## Running the Project
+
+To run the challenge, use the following command:
+python3 unbabel_cli.py --input_file events.json --window_size 10
+
+## Run Tests
+To run tests, execute the following command:
+python3 validate.py
+
+
+
 # Backend Engineering Challenge
 
 

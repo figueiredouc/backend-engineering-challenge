@@ -1,0 +1,5 @@
+[
+    {"timestamp": "2022-01-17 12:05:00.102000","translation_id": "1","source_language": "en","target_language": "fr","client_name": "client1","event_name": "translation_delivered","nr_words": 50, "duration": 15},
+    {"timestamp": "2022-01-17 12:10:00.220000","translation_id": "2","source_language": "es","target_language": "de","client_name": "client2","event_name": "translation_delivered","nr_words": 30, "duration": 25},
+    {"timestamp": "2022-01-17 12:15:00.300000","translation_id": "3","source_language": "fr","target_language": "en","client_name": "client3","event_name": "translation_delivered","nr_words": 40, "duration": 20}
+]
